@@ -1,0 +1,24 @@
+.collapsible__content > div > div > .group-field__wrap .render-fields {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  & > div .checkbox-input label {
+    padding-left: 0.5rem;
+  }
+}
+
+.price-row .render-fields {
+  position: relative;
+  & .price-text {
+    position: absolute;
+    left: 35px;
+    top: 0%;
+    font-size: xx-small;
+    color: lightgray;
+  }
+}
+
+.checkbox--checked {
+  margin-bottom: unset !important;
+  margin-top: 4px !important;
+}
