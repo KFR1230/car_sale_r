@@ -23,7 +23,7 @@
   `npm install`
 4. 在終端機輸入以下指令，開啟專案
   `npm run dev`
-5. 打開瀏覽器輸入 http://localhost:3000，便可看到登入畫面
+5. 打開瀏覽器輸入 http://localhost:3000，便可看到畫面
 6. 預想停止，在終端機輸入以下指令
   `ctrl+c`
 ## Features 功能
